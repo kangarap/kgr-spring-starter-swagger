@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.swagger</groupId>
+  <artifactId>kgr-spring-starter-swagger</artifactId>
+  <versioning>
+    <versions>
+      <version>0.0.1-SNAPSHOT</version>
+    </versions>
+    <lastUpdated>20210820062855</lastUpdated>
+  </versioning>
+</metadata>
