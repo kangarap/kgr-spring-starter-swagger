@@ -1,13 +1,13 @@
 package com.swagger.doc;
 
-import org.junit.jupiter.api.Test;
-import org.springframework.boot.test.context.SpringBootTest;
-
-@SpringBootTest
-class DocApplicationTests {
-
-	@Test
-	void contextLoads() {
-	}
-
-}
+//import org.junit.jupiter.api.Test;
+//import org.springframework.boot.test.context.SpringBootTest;
+//
+//@SpringBootTest
+//class DocApplicationTests {
+//
+//	@Test
+//	void contextLoads() {
+//	}
+//
+//}
