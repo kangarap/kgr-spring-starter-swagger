@@ -3,9 +3,10 @@
   <groupId>com.swagger</groupId>
   <artifactId>kgr-spring-starter-swagger</artifactId>
   <versioning>
+    <release>1.0</release>
     <versions>
-      <version>0.0.1-SNAPSHOT</version>
+      <version>1.0</version>
     </versions>
-    <lastUpdated>20210820080102</lastUpdated>
+    <lastUpdated>20210820080705</lastUpdated>
   </versioning>
 </metadata>

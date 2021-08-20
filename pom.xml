@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.swagger</groupId>
 	<artifactId>kgr-spring-starter-swagger</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0</version>
 	<name>doc</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
