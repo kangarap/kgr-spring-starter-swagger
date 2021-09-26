@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.kgr.framework.idempotent.config.IdempotentConfiguration,\
+  com.kgr.framework.lock4j.config.Lock4jConfiguration

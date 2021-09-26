@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.kgr.framework.security.config.SecurityAutoConfiguration,\
+  com.kgr.framework.security.config.KgrWebSecurityConfigurerAdapter

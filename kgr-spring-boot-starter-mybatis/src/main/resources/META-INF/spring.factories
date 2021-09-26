@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.kgr.framework.datasource.config.DataSourceAutoConfiguration,\
+  com.kgr.framework.mybatis.config.MybatisAutoConfiguration

@@ -1,0 +1,8 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  com.kgr.framework.apilog.config.ApiLogAutoConfiguration,\
+  com.kgr.framework.jackson.config.JacksonAutoConfiguration,\
+  com.kgr.framework.swagger.config.SwaggerAutoConfiguration,\
+  com.kgr.framework.web.config.WebAutoConfiguration,\
+  com.kgr.framework.websocket.config.WebSocketConfiguration,\
+  com.kgr.framework.elsticsearch.config.ElsticSearchAutoCofiguration
+
